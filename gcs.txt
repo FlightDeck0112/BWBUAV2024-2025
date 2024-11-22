@@ -1,0 +1,12 @@
+'Predefined commands that has no parametres or only external parametres
+#S|T|TIME|[]#
+#S|D|DATE|[]#
+#S|SENDK|SENDK|[$1&$2]#
+
+
+
+#S|LOG1|LGFIL|[C:\Users\dellx\Documents\log1.txt&$1&-1]#
+
+
+
+
